@@ -1,0 +1,1 @@
+delete from colaborador where Cod_Colaborador=20
